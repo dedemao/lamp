@@ -1,7 +1,9 @@
+修改了Dockfile，第一行改为了国内的镜像地址，修改了apt-get源，提高下载速度，增加了安装php5-curl,php5-gd等扩展
+
 tutum-docker-lamp
 =================
 
-[![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/)
+
 
 Out-of-the-box LAMP image (PHP+MySQL)
 
